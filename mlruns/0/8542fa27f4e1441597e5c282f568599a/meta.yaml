@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/8542fa27f4e1441597e5c282f568599a/artifacts
+end_time: 1728276930577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8542fa27f4e1441597e5c282f568599a
+run_name: bedecked-auk-388
+run_uuid: 8542fa27f4e1441597e5c282f568599a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728276922533
+status: 4
+tags: []
+user_id: User

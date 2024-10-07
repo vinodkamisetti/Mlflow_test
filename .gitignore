@@ -1,0 +1,6 @@
+# Ignore virtual environments
+venv/
+#mlflow_test/
+mlflow_test/Scripts/
+mlflow_test/Lib/
+#mlflow_test/Include/

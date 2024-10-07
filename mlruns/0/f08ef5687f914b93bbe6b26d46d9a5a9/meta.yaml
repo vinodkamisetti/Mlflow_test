@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/f08ef5687f914b93bbe6b26d46d9a5a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f08ef5687f914b93bbe6b26d46d9a5a9
+run_name: secretive-bat-183
+run_uuid: f08ef5687f914b93bbe6b26d46d9a5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728276950621
+status: 1
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/7a112fd811194e4a8c071ec8aea83d61/artifacts
+end_time: 1728274603710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a112fd811194e4a8c071ec8aea83d61
+run_name: bittersweet-worm-559
+run_uuid: 7a112fd811194e4a8c071ec8aea83d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728274603475
+status: 4
+tags: []
+user_id: User

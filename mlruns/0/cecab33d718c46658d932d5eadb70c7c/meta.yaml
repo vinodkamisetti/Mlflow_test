@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/cecab33d718c46658d932d5eadb70c7c/artifacts
+end_time: 1728274540376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cecab33d718c46658d932d5eadb70c7c
+run_name: receptive-shad-500
+run_uuid: cecab33d718c46658d932d5eadb70c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728274540224
+status: 4
+tags: []
+user_id: User

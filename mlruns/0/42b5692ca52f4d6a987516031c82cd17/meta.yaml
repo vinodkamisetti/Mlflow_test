@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/42b5692ca52f4d6a987516031c82cd17/artifacts
+end_time: 1728274836606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42b5692ca52f4d6a987516031c82cd17
+run_name: ambitious-frog-96
+run_uuid: 42b5692ca52f4d6a987516031c82cd17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728274836371
+status: 4
+tags: []
+user_id: User

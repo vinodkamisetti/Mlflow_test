@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/c59b2571cc044bbd92faa825b85e75f1/artifacts
+end_time: 1728274469502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c59b2571cc044bbd92faa825b85e75f1
+run_name: powerful-mule-751
+run_uuid: c59b2571cc044bbd92faa825b85e75f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728274469138
+status: 4
+tags: []
+user_id: User

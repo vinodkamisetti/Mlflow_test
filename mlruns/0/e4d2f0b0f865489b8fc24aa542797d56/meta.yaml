@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/e4d2f0b0f865489b8fc24aa542797d56/artifacts
+end_time: 1728277104227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4d2f0b0f865489b8fc24aa542797d56
+run_name: nervous-gnat-976
+run_uuid: e4d2f0b0f865489b8fc24aa542797d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277089562
+status: 4
+tags: []
+user_id: User

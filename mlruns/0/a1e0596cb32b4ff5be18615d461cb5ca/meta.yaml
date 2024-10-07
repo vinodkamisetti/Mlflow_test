@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/a1e0596cb32b4ff5be18615d461cb5ca/artifacts
+end_time: 1728277194721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1e0596cb32b4ff5be18615d461cb5ca
+run_name: enthused-fox-279
+run_uuid: a1e0596cb32b4ff5be18615d461cb5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277187992
+status: 3
+tags: []
+user_id: User
