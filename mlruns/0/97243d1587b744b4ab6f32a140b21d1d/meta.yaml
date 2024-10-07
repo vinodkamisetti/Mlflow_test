@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/97243d1587b744b4ab6f32a140b21d1d/artifacts
+end_time: 1728274540378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97243d1587b744b4ab6f32a140b21d1d
+run_name: marvelous-skunk-312
+run_uuid: 97243d1587b744b4ab6f32a140b21d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728274540150
+status: 4
+tags: []
+user_id: User

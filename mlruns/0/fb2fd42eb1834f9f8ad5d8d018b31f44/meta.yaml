@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/fb2fd42eb1834f9f8ad5d8d018b31f44/artifacts
+end_time: 1728277185129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb2fd42eb1834f9f8ad5d8d018b31f44
+run_name: luminous-midge-352
+run_uuid: fb2fd42eb1834f9f8ad5d8d018b31f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277182938
+status: 3
+tags: []
+user_id: User

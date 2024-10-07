@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/8d326ca8cb1f48059fc0622109a97651/artifacts
+end_time: 1728277104224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d326ca8cb1f48059fc0622109a97651
+run_name: righteous-pig-914
+run_uuid: 8d326ca8cb1f48059fc0622109a97651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277104106
+status: 4
+tags: []
+user_id: User

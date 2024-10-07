@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/0da4181d7ea244519a6db00550fa077f/artifacts
+end_time: 1728277096462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0da4181d7ea244519a6db00550fa077f
+run_name: overjoyed-lamb-329
+run_uuid: 0da4181d7ea244519a6db00550fa077f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277091927
+status: 3
+tags: []
+user_id: User

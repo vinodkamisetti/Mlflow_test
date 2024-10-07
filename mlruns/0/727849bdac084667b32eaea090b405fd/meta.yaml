@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/727849bdac084667b32eaea090b405fd/artifacts
+end_time: 1728276858628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 727849bdac084667b32eaea090b405fd
+run_name: youthful-seal-879
+run_uuid: 727849bdac084667b32eaea090b405fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728276850082
+status: 4
+tags: []
+user_id: User

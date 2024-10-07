@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/138506a6e3114252a42e8d6678d89c57/artifacts
+end_time: 1728275043071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 138506a6e3114252a42e8d6678d89c57
+run_name: invincible-wasp-588
+run_uuid: 138506a6e3114252a42e8d6678d89c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728275042816
+status: 4
+tags: []
+user_id: User

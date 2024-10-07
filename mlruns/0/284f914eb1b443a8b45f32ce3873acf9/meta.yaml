@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/284f914eb1b443a8b45f32ce3873acf9/artifacts
+end_time: 1728277187946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 284f914eb1b443a8b45f32ce3873acf9
+run_name: wise-sponge-122
+run_uuid: 284f914eb1b443a8b45f32ce3873acf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277185170
+status: 3
+tags: []
+user_id: User

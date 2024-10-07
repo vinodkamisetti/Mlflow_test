@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/b93edbadcda748f08d29dd07ce4ecc04/artifacts
+end_time: 1728276950584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b93edbadcda748f08d29dd07ce4ecc04
+run_name: spiffy-penguin-936
+run_uuid: b93edbadcda748f08d29dd07ce4ecc04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728276943593
+status: 3
+tags: []
+user_id: User

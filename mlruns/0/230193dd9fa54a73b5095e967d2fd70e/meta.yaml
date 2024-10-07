@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/230193dd9fa54a73b5095e967d2fd70e/artifacts
+end_time: 1728274666057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 230193dd9fa54a73b5095e967d2fd70e
+run_name: thundering-ray-885
+run_uuid: 230193dd9fa54a73b5095e967d2fd70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728274665818
+status: 4
+tags: []
+user_id: User

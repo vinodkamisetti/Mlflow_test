@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/730707a3f757406eb9ffc7dff0689da7/artifacts
+end_time: 1728277196732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 730707a3f757406eb9ffc7dff0689da7
+run_name: glamorous-mare-273
+run_uuid: 730707a3f757406eb9ffc7dff0689da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728277182852
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/f9bee1b8892e49fcaf1cc92ee1d973e5/artifacts
+end_time: 1728275043070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9bee1b8892e49fcaf1cc92ee1d973e5
+run_name: beautiful-flea-733
+run_uuid: f9bee1b8892e49fcaf1cc92ee1d973e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728275042894
+status: 4
+tags: []
+user_id: User

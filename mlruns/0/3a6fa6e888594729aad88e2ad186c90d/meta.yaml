@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/3a6fa6e888594729aad88e2ad186c90d/artifacts
+end_time: 1728275490009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a6fa6e888594729aad88e2ad186c90d
+run_name: useful-mouse-745
+run_uuid: 3a6fa6e888594729aad88e2ad186c90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728275487841
+status: 3
+tags: []
+user_id: User
