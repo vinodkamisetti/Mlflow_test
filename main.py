@@ -1,5 +1,10 @@
 import argparse
 import mlflow
+import dagshub
+
+dagshub.init(repo_owner='vinodkamisetti', repo_name='Mlflow_test', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/vinodkamisetti/Mlflow_test.git")
+mlflow.set_experiment("homeprice_dagshub")
 
 def main(Target):
     print(f"[INFO] MLOps Pipeline Triggerd for")
