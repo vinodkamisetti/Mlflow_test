@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/Mlflow_test/mlruns/0/335b91b7d4374a4497618826829d60d4/artifacts
+end_time: 1728303691427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 335b91b7d4374a4497618826829d60d4
+run_name: upset-quail-884
+run_uuid: 335b91b7d4374a4497618826829d60d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728303683422
+status: 3
+tags: []
+user_id: User
